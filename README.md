@@ -2,8 +2,9 @@
 
 I am extremely curious and motivated to learn new things. PHP lover and video games as well. I'm from Dominican Republic.
 
- ---
+
 ### Github estadistics
+ ---
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=brianpolanco25&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 <a  href="https://github.com/brianpolanco25">
@@ -12,6 +13,7 @@ I am extremely curious and motivated to learn new things. PHP lover and video ga
 
  ---
 ### 📫 Get In Touch
+ ---
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)-->
 <a href="https://www.linkedin.com/in/briannys-mendez-polanco-60061018b/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
