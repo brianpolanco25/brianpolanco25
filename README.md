@@ -15,7 +15,7 @@
 &nbsp; &nbsp;
  
 ⭐️ From [Quan](https://github.com/brianpolanco25) with :sparkling_heart: 
-<img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
+<img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=brianpolanco25.brianpolanco250">
 
 <!--
 **brianpolanco25/brianpolanco25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
