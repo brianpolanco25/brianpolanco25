@@ -1,12 +1,11 @@
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=brianpolanco25&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
-
 I am extremely curious and motivated to learn new things. PHP lover and video games as well. I'm from Dominican Republic.
 
  ---
 ### Github estadistics
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=brianpolanco25&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 <a  href="https://github.com/brianpolanco25">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianpolanco25&theme=radical&hide=glsl,python" />
 </a>
