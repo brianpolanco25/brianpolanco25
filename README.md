@@ -1,6 +1,8 @@
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
-
+<a href="https://github.com/Neel2904">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel2904&theme=radical&hide=glsl,python" />
+</a>
 <!--
 **brianpolanco25/brianpolanco25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
