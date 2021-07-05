@@ -11,7 +11,7 @@ I am extremely curious and motivated to learn new things. PHP lover and video ga
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianpolanco25&theme=radical&hide=glsl,python" />
 </a>
 
- ---
+
 ### 📫 Get In Touch
  ---
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)-->
