@@ -3,6 +3,8 @@
 <a href="https://github.com/brianpolanco25">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianpolanco25&theme=radical&hide=glsl,python" />
 </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=brianpolanco25&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 <!--
 **brianpolanco25/brianpolanco25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
