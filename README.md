@@ -15,8 +15,7 @@
 &nbsp; &nbsp;
 <a href="mailto:brianpolancodisenos@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
- 
-⭐️ From [Quan](https://github.com/brianpolanco25) with :sparkling_heart: 
+  
 <img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=brianpolanco25.brianpolanco250">
 
 <!--
