@@ -1,6 +1,6 @@
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
-<a href="https://github.com/brianpolanco25">
+<a align="left" href="https://github.com/brianpolanco25">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianpolanco25&theme=radical&hide=glsl,python" />
 </a>
 
